@@ -27,6 +27,7 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 
 ## Promotion Type Analysis   ![](Promotion_type.jpg)
 
+## Product and Category Analysis ![](Promotion_Category.jpg)
 
 
 
