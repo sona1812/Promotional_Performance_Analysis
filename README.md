@@ -12,9 +12,6 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 * Which Product Categories saw the most significant lift in sales from the promotion.
 * Are there specific products that responds exceptionally well or poorly to promotions ?
 
-## Dataset Used
-- <a href-"https://github.com/sona1812/Promotional_Performance_Analysis/blob/main/Promotion_dataset.xlsx">Dataset</a>
-
 ## Skills Used
  **SQL(MySQL)** to analyse data and ad-hoc-analysis
  
