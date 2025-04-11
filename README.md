@@ -25,6 +25,8 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 
 ## City and Store Aanalysis  ![](Promotion_City.jpg)
 
+## Promotion Type Analysis   ![](Promotion_type.jpg)
+
 
 
 
