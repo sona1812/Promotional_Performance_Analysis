@@ -34,7 +34,7 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 
 ### Generate a report that provides an overview of the no of stores in each city.   ![](PromoSQL2.jpg)   ![](PromoSQL2..jpg)
 
-### Generate a report that displays each campaign along with total revenue generated before and after promotion    ![](PromoSQL3.jpg)
+### Generate a report that displays each campaign along with total revenue generated before and after promotion    ![](PromoSQL3.jpg)  ![](PromoSQL3..jpg)
 
 ### Produce a report that calculates ISU% for each category during Diwali campaign. Aditionally provide rankings for the category based on ISU% 
 
