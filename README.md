@@ -32,7 +32,7 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 ## Ad-hoc-Requests
 ###  List of products with a base price > 500 and that are featured in BOGOF promo type   ![](PromoSQL.1.jpg)  ![](PromoSQL1...jpg)
 
-### Generate a report that provides an overview of the no of stores in each city.   ![](PromoSQL2.jpg) 
+### Generate a report that provides an overview of the no of stores in each city.   ![](PromoSQL2.jpg)   ![](PromoSQL2..jpg)
 
 ### Produce a report that calculates ISU% for each category during Diwali campaign. Aditionally provide rankings for the category based on ISU% 
 
