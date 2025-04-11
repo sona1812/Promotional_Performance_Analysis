@@ -29,17 +29,15 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 
 ## Product and Category Analysis ![](Promotion_Category.jpg)
 
-## Ad-hoc-Requests
-###  List of products with a base price > 500 and that are featured in BOGOF promo type   ![](PromoSQL.1.jpg)  ![](PromoSQL1...jpg)
-
-### Generate a report that provides an overview of the no of stores in each city.   ![](PromoSQL2.jpg)   ![](PromoSQL2..jpg)
-
-### Generate a report that displays each campaign along with total revenue generated before and after promotion    ![](PromoSQL3.jpg)  ![](PromoSQL3..jpg)
-
-### Produce a report that calculates ISU% for each category during Diwali campaign. Aditionally provide rankings for the category based on ISU% 
-
-### Create a report featuring Top 5 Products ranked by IR% across each campaign. The report will provide essential information including product name, category, IR%
-
-### Top 10 store in terms of IR generated from the promotion 
-
-### Top 2 Promotion type taht resulted in highest IR
+## Conclusion and Recommendations
+* The Diwali season generates higher revenue compared to Sankranti, indicating that the company should focus more on promotions and offers during this period
+* Bengaluru, Chennai, and Hyderabad have shown significant revenue growth; therefore, the company should consider expanding its presence by opening more stores in these cities
+* Only the BOGOF and 500 Cashback promotion types led to significant revenue increases during both festival seasons, whereas the 50% OFF, 33% OFF, and 25% OFF promotions had a negative impact on revenue. 
+  Therefore, the company should consider expanding the effective promotion types(BOGOF, 500 Cashback) while limiting or reevaluating the less effective ones.
+* The promotion type analysis clearly indicates that customers are more attracted to free products and cashback offers because Offers like BOGOF (Buy One Get One Free) feel like a bonus rather than a discount  
+  they create excitement and perceived generosity.
+* Cashback promotions give a sense of getting money back, which feels like a reward. Customers may even see it as a future discount or saving.It also encourages repeat purchases, especially if cashback is 
+  credited to wallets or future use.
+* Flat discounts (like 25%, 50% off) require customers to calculate savings, but free products or cashback are instant gratification — no math needed.
+* Combo1 and Home Care categories show the highest increase in revenue, while the Personal Care category has a negative impact. This indicates that during festive seasons, customers prefer purchasing Home Care 
+  and Combo products. Therefore, the company should focus on offering more promotions in these categories during such periods.
