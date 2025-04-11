@@ -23,7 +23,7 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 * Performed data cleaning and manipulation in Excel using Power Query, VLOOKUPs, and other advanced Excel functions.
 * Created data visualizations in Excel to highlight key insights and trends.
 
-## City and Store Aanalysis ![](Promotion_Category.jpg)
+## City and Store Aanalysis  ![](Promotion_City.jpg)
 
 
 
