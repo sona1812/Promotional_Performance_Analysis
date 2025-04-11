@@ -15,7 +15,7 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 ## Skills Used
  **SQL(MySQL)** to analyse data and ad-hoc-analysis
  
-**Excel (Advanced Excel)** Utilized Advanced Excel for efficient data cleaning, manipulation, analysis, and visualization
+**Excel (Advanced Excel)** Utilized Advanced Excel for efficient data cleaning, manipulation, analysis, and visualization.
 
 
 
