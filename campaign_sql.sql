@@ -91,20 +91,7 @@ FROM fact_campaign_data AS f
 JOIN dim_products AS p ON p.product_code = f.product_code
 GROUP BY p.category;  
 
-SELECT category, product_name, `IR%`
-FROM (
-       SELECT p.category, p.product_name, ROUND(SUM(base_price * `quantity_sold(before_promo)`)/1000000,2) AS Revenue_BP,
-       ROUND(SUM(
-CASE
-WHEN promo_type = "BOGOF" THEN base_price * `quantity_sold(after_promo)`
-WHEN promo_type = "50% OFF" THEN base_price * 0.5 * `quantity_sold(after_promo)`
-WHEN promo_type = "25% OFF" THEN base_price * 0.75 * `quantity_sold(after_promo)`
-WHEN promo_type = "33% OFF" THEN base_price * 0.67 * `quantity_sold(after_promo)`
-WHEN promo_type = "500 Cashback" THEN (f.base_price - 500) * `quantity_sold(after_promo)`
-END)/1000000,2) AS Revenue_AP, ((Revenue_AP - Revenue_BP)/Revenue_BP) * 100 AS `IR%`
-FROM fact_campaign_data AS f 
-JOIN dim_products AS p ON p.product_code = f.product_code
-GROUP BY p.category) AS IR ; 
+
 
        
 
