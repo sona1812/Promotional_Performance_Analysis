@@ -18,9 +18,8 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 **Excel (Advanced Excel)** Utilized Advanced Excel for efficient data cleaning, manipulation, analysis, and visualization.
 
 ## Process
-* Imported data into MySQL Workbench and addressed all ad hoc requests by writing optimized SQL queries.
-* Exported the cleaned and structured data from MySQL to Microsoft Excel for further analysis.
-* Performed data cleaning and manipulation in Excel using Power Query, VLOOKUPs, and other advanced Excel functions.
+* Imported data into **MySQL Workbench** and addressed all ad hoc requests by writing optimized SQL queries.
+* Performed data cleaning and manipulation in Excel using **Power Query, VLOOKUPs**, and other advanced Excel functions.
 * Created data visualizations in Excel to highlight key insights and trends.
 
 ## City and Store Aanalysis  ![](Promotion_City.jpg)
