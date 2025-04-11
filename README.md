@@ -29,5 +29,6 @@ Analyse data, answer ad-hoc-requests using SQL and provide tangible insights to 
 
 ## Product and Category Analysis ![](Promotion_Category.jpg)
 
-
+## Ad-hoc-Requests
+###  List of products with a base price > 500 and that are featured in BOGOF promo type  
 
